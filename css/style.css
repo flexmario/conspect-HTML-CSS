@@ -1,0 +1,1027 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto";
+  background-color: #080f16;
+}
+
+.conspect {
+  color: #fff;
+  font-size: 40px;
+  padding: 30px 0 0 100px;
+  margin: 0 0 30px 0;
+  font-weight: 700;
+}
+
+/* разрыв  */
+
+.label {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.column__label {
+}
+
+.prolog__container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.soder {
+  color: #fff;
+  text-decoration: none;
+}
+
+.prolog__label {
+  margin: 0 0 22px 0;
+}
+
+.fotka {
+  max-width: 200px;
+  margin: 0 30px 0 0;
+  border-radius: 5px;
+}
+
+.anketa__title {
+  font-size: 24px;
+  color: #ec7239;
+}
+
+.anketa__list li {
+  font-size: 18px;
+  margin: 0 0 8px 0;
+}
+
+.soc {
+  margin: 0 0 10px 0;
+  font-size: 20px;
+  color: #ec7239;
+}
+
+.anketa__soc a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.anketa__soc a:hover {
+  text-decoration: underline;
+}
+
+.prolog__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.anketa__row {
+  display: flex;
+}
+
+.anketa__subtitle {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0 0 15px 50px;
+}
+
+.anketa__body {
+  color: #fff;
+}
+
+.anketa__item {
+  /* margin: 0 0 0 50px; */
+}
+
+ol {
+  color: #fff;
+}
+
+.column__label {
+  margin: 0 0 10px 0;
+}
+
+.column__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.column__list li {
+  color: #fff;
+}
+
+.column__list li:hover {
+  text-decoration: underline;
+}
+
+.prolog__columns_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.prolog__columns_column {
+  margin: 0 40px 0 0;
+}
+
+.prolog__anketa {
+}
+
+.column__list li {
+  margin: 0 0 8px;
+}
+
+.column__label {
+  padding: 0 0 0 22px;
+}
+
+/* разрыв */
+
+.conspect__link:hover {
+  text-decoration: underline;
+}
+
+.conspect a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* разрыв  */
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.lesson-1 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 30px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+}
+
+h2 {
+  color: white;
+}
+
+.lesson-1__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-1__title:hover {
+  text-decoration: underline;
+}
+
+.title {
+  color: #ec7239;
+  font-size: 36px;
+  font-weight: 500;
+}
+
+.scheme {
+  max-width: 700px;
+  transition: 0.5s;
+}
+
+.open {
+  color: #fff;
+  text-align: center;
+  margin: 15px 0;
+}
+
+.open a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.open a:hover {
+  text-decoration: underline;
+}
+
+.lesson-1__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-1__body {
+  color: #fff;
+}
+
+.lesson-1__text {
+  padding: 0 50px 0 20px;
+}
+
+.lesson-1__text li {
+  margin: 0 0 5px 20px;
+  font-size: 18px;
+}
+
+.lesson-2__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-2__table {
+  margin: 20px 0;
+}
+
+.lesson-2 {
+  background-color: #31485f;
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 30px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+}
+
+.lesson-2__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-1__title:visited {
+  text-decoration: none;
+}
+
+.table thead,
+tbody {
+  color: #000;
+}
+
+.table thead {
+  color: #000;
+  background-color: antiquewhite;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+th.unique1 {
+  background-color: #ec7239;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+th.unique2 {
+  background-color: #70bbf2;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+.table {
+  width: 600px;
+}
+
+.lesson-2__zagolovok {
+  font-size: 24px;
+}
+
+.lesson-2__table {
+  font-size: 18px;
+}
+
+.table-1 td {
+  padding-bottom: 10px;
+}
+
+.table-1 td:nth-child(odd) {
+  background-color: #ffc3a7;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+.table-1 td:nth-child(even) {
+  background-color: #b1dfff;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+.img1 {
+  max-width: 160px;
+}
+
+.img2 {
+  max-width: 150px;
+}
+
+/* разрыв  */
+
+.lesson-3 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 30px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+}
+
+.CodePen a {
+  text-decoration: none;
+}
+
+.MDN a {
+  text-decoration: none;
+}
+
+.CodePen a:hover {
+  text-decoration: underline;
+}
+
+.MDN a:hover {
+  text-decoration: underline;
+}
+
+.lesson-3__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-3__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-3__list {
+  padding: 0 50px 0 30px;
+}
+
+.lesson-3__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-3 li {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0 0 10px 0;
+}
+
+.first li {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0 0 8px 0;
+}
+
+.lesson-3__image {
+  max-width: 700px;
+}
+
+.lesson-3__subtitle {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 0 10px 0;
+}
+
+/* разрыв  */
+
+.lesson-4 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+}
+
+.lesson-4__title {
+  margin: 0 0 20px 0;
+}
+
+.lesson-4__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-4__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-4__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-4__logo {
+  max-width: 160px;
+}
+
+.lesson-4__logo {
+  margin: 0 500px 0 0;
+}
+
+.lesson-4__list li {
+  font-size: 18px;
+  margin: 0 0 8px 0;
+}
+
+.lesson-5 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+}
+
+.lesson-5__title {
+  margin: 0 0 20px 0;
+}
+
+.lesson-5__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-5__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-5__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-5__image {
+  max-width: 400px;
+}
+
+.lesson-5__list li {
+  font-size: 18px;
+  margin: 0 0 8px 0;
+}
+
+.lesson-6 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+}
+
+.lesson-6__title {
+  margin: 0 0 20px 0;
+}
+
+.lesson-6__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-6__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-6__image_11 {
+  max-width: 90%;
+}
+
+.lesson-6__image_22 {
+  max-width: 90%;
+  justify-content: space-between;
+}
+
+.lesson-6__row {
+  display: flex;
+}
+
+.lesson-7 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.lesson-7__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-7__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-7__row {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 50px 0 0;
+}
+
+.lesson-7__column {
+  flex: 0 1 50%;
+}
+
+.lesson-8 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.lesson-8__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-8__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-8__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-8__column {
+  flex: 0 1 50%;
+  margin: 0 50px 0 0;
+}
+
+.avka {
+  max-width: 40%;
+}
+
+.lesson-9 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.lesson-9__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-9 title {
+}
+
+.lesson-9__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-9__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-10 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.lesson-10__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-10__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-10__row {
+}
+.table__white td {
+  color: #ec7239;
+}
+
+.lesson-10__1table {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-10__2table {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-11 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+}
+
+.lesson-11__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-11__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-11__listt li {
+  margin: 0 0 8px 8px;
+}
+
+input {
+  background-color: #ec7239;
+}
+
+.lesson-12 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.lesson-12__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-12__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-12__row {
+  display: flex;
+}
+
+.lesson-12__list {
+  flex: 0 1 50%;
+  margin: 0 50px 0 0;
+}
+
+.lesson-13 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.lesson-13__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-13__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-13__row {
+  display: flex;
+}
+
+.lesson-13__list {
+  flex: 0 1 50%;
+  margin: 0 50px 0 0;
+}
+
+.lesson-14 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.lesson-14__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-14__title:hover {
+  text-decoration: underline;
+}
+
+.lesson-15 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.lesson-15__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.lesson-15__title:hover {
+  text-decoration: underline;
+}
+
+/* CSS  */
+
+.clesson-1 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-1__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-1__title:hover {
+  text-decoration: underline;
+}
+
+.avka {
+  max-width: 20%;
+}
+
+.clesson-1__row {
+  display: flex;
+}
+
+p {
+  font-size: 18px;
+}
+
+.clesson-2 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-2__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-2__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-3 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-3__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-3__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-3__row {
+  display: flex;
+}
+
+.clesson-3__column {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 33.333%;
+  margin: 0 40px 0 0;
+}
+
+.clesson-4 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-4__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-4__title:hover {
+  text-decoration: underline;
+}
+
+.image-4 {
+  max-width: 300px;
+}
+
+.clesson-5 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-5__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-5__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-6 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-6__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-6__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-6__row {
+  display: flex;
+}
+
+.clesson-6__column {
+  flex: 0 1 33.333%;
+  margin: 0 30px 0 0;
+}
+
+.clesson-7 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-7__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-7__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-8 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-8__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-8__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-9 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-9__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-9__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-10 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-10__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-10__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-11 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-11__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-11__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-12 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-12__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-12__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-13 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-13__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-13__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-14 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-14__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-14__title:hover {
+  text-decoration: underline;
+}
+
+.clesson-15 {
+  max-width: 1300px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+  background-color: #31485f;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.clesson-15__title a {
+  color: #ec7239;
+  text-decoration: none;
+}
+
+.clesson-15__title:hover {
+  text-decoration: underline;
+}
